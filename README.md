@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @diuere
+  - self taught programmer.
 - 👀 I’m interested in 
   - frontend;
   - web development.
