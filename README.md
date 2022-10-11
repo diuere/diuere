@@ -3,9 +3,13 @@
 - 👀 I’m interested in 
   - frontend;
   - web development.
+- :computer: Technologies I use
+   - ReactJs;
+   - SCSS;
+   - Figma.
 - 🌱 I’m currently learning 
-  - React;
-  - typescript.
+  - Typescript;
+  - Node.js.
 - 💞️ I’m looking to collaborate on
   - freelancer;
   - all sizes organizations and companies.
