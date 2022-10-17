@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @diuere
-- 📫 Reach me
+
+- 📫 Reach me on
+  - Instagram:
+    https://www.instagram.com/diuere_souza/
+    
+- :telephone: Contact me
   - diueresouza@gmail.com
-  - @diuere_souza (instagram/twitter)
 
 <!---
 diuere/diuere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
